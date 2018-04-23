@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426639378 source:c:\users\luis\dropbox\inco\programación\programa 40 (bidimensionales)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
